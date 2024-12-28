@@ -1,8 +1,8 @@
-# AntFarm Simulation Project
+# AntFarm Simulation Assignment using C++ Design Patterns
 
 ## Project Overview
 
-The AntFarm Simulation Project is a C++ implementation that demonstrates the application of various design patterns in software engineering. It includes creational, structural, and behavioral patterns to simulate the behavior and management of ant colonies in a meadow environment. The project fulfills academic requirements for implementing design patterns while fostering creative problem-solving skills.
+The AntFarm Simulation Assignment is a C++ implementation that demonstrates the application of various design patterns in software engineering. It includes creational, structural, and behavioral patterns to simulate the behavior and management of ant colonies in a meadow environment. The project fulfills academic requirements for implementing design patterns while fostering creative problem-solving skills.
 
 ## Key Features
 
